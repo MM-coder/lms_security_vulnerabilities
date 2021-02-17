@@ -1,0 +1,16 @@
+{
+    "description": "LMS Vulnerability PoC",
+    "manifest_version": 2,
+    "name": "neolms-timer-bypass",
+    "version": "1.0",
+  
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking", 
+      "<all_urls>"
+    ],
+  
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }

@@ -21,6 +21,16 @@ This repository serves as a directory of both the writeups and the proof-of-conc
 
 The timer on quiz assignments is client-side only, the server does not check the submission time, hence by disabling the timer client side we effectively disable the timer.
 
+## Contents
+
+* [`timer_bypass/matrix_neo_quiz_writeup.pdf`](/timer_bypass/matrix_neo_quiz_writeup.pdf) - Write up for the XSS vulnerabilities found in assigments, task descriptions and the user's portfolio
+* [`timer_bypass/proof_of_concept/`](/timer_bypass/proof_of_concept) - Code for the proof-of-concept of the timer bypass, consitutes a Firefox addon which can be loaded as described [here](https://blog.mozilla.org/addons/2015/12/23/loading-temporary-add-ons/)
+* [`xss_vulnerabilties/matrix_neo_xss_writeup.pdf`](/xss_vulnerabities/matrix_neo_xss_writeup.pdf) - Write up for the XSS vulnerabilities found in assigments, task descriptions and the user's portfolio
+* [`xss_vulnerabilties/proof_of_concept/`](/xss_vulnerabities/proof_of_concept) - Payload that was created specifically to impede a instructor from correcting a student's submission.
+
+
+
+
 ## License 
 
 ![License Badge](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc.svg)
