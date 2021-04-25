@@ -29,8 +29,6 @@ The timer on quiz assignments is client-side only, the server does not check the
 * [`xss_vulnerabilties/proof_of_concept/`](/xss_vulnerabilities/proof_of_concept) - Payload that was created specifically to impede a instructor from correcting a student's submission.
 
 
-
-
 ## License 
 
 ![License Badge](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc.svg)
